@@ -68,3 +68,19 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 ### `npm run build` fails to minify
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+
+cache:
+[
+    suppose  if i store my search results in array
+    what is the time complexig of search of array=O(n)
+    array.indexOf() or array.inculdes both the time complexity will be o(n) only even though if it is optimize the code 
+]
+{
+    find the key if object or Map time complexity is = O(1)
+    i:
+    ip:
+    iph:
+    ipho:
+    iphon:
+    iphone:
+}
